@@ -1,0 +1,4 @@
+mkdir ~/JNI
+cd ~/JNI
+git init
+touch README
